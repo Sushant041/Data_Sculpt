@@ -11,15 +11,15 @@ This platform enables users to create customizable tasks for contributors while 
 
 ### Demo Video
 
-[Click here to watch the demo video](https://youtu.be/f_S0T38ucyU)
+[Click here to watch the demo video](https://youtu.be/vni_n1zlbyE)
 
 ### Live Link
 
-[Explore DataScult here](https://datasculpt.vercel.app)
+[Explore DataScult here](https://data-sculpt.vercel.app/)
 
 ### Github Link
 
-[Explore the Github Repo here](https://github.com/preyanshu/datasculpt)
+[Explore the Github Repo here](https://github.com/Sushant041/Data_Sculpt/)
 
 ## Working
 
